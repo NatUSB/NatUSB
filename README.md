@@ -1,16 +1,3 @@
-## Projects
-ravenge - an undetected multipurpose apex legends cheat.\
-\
-shades - a screenshare tool made to detect any cheat injectable or not provides most of it's uses for minecraft.\
-\
-qRest - secure end to end authentication.\
-\
-Tallus - a fully undetected minecraft internal cheat with a lot of features.\
-\
-Stargaze - a very good and versatile GTA mod menu which can be found @ [stargaze.cloud](https://stargaze.cloud/).\
-\
-Emerald - a versatile Rainbow Six Siege Cheat made for both legit and blatant.
-
 ## Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
